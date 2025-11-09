@@ -1,4 +1,4 @@
-📝 My Notes App
+# 📝 My Notes App
 
 My Notes App is a full-stack MERN (MongoDB, Express.js, React.js, Node.js) project that allows users to create, read, update, and delete (CRUD) their personal notes seamlessly.
 It features an interactive and responsive UI built with React.js and DaisyUI, ensuring a clean and modern design for smooth note management.
@@ -26,3 +26,7 @@ Frontend: React.js, DaisyUI, Tailwind CSS
 Backend: Node.js, Express.js
 
 Database: MongoDB
+
+# Project UI
+
+<img width="954" height="488" alt="image" src="https://github.com/user-attachments/assets/37ecaac2-8f40-400e-a3a7-306d8607470a" />
