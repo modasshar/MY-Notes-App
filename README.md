@@ -15,6 +15,10 @@ It features an interactive and responsive UI built with React.js and DaisyUI, en
 
 💻 Fully responsive and visually appealing interface
 
+🧪 API Testing
+
+APIs are tested and verified using Postman for reliable CRUD operations.
+
 🛠️ Tech Stack
 
 Frontend: React.js, DaisyUI, Tailwind CSS
